@@ -1,5 +1,7 @@
 import os
 import threading
+import sys
+sys.path.append("/Users/amber_xin/opt/miniconda3/lib/python3.8/site-packages")
 
 import schedule
 from flask import Flask
