@@ -1,0 +1,11 @@
+flask
+flask-smorest
+python-dotenv
+flask-sqlalchemy
+
+opencv-python-headless
+numpy
+pytesseract
+schedule
+selenium
+webdriver-manager
